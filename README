@@ -1,6 +1,8 @@
 A wiki would be a great tool for collaboration because discussions doesn't, for example, allow one to share a "todo" list about a person, for collaboration.  Though a step in the right direction.  +1 for wiki's per person, for adding stories about them, sharing lists, etc.
 
+TODO: on gc.inet2.org note "here's an example" and "here's universal" one and "here's full list"
 
+mediawiki: I will contribute a patch for your tree like structure! plz?
 
 The 17th link or so was to *our page* LOL.
 
@@ -71,4 +73,19 @@ http://lythgoes.net/genealogy/software.php costs
 
 sharing time costs
 
-:
+
+	
+MediaWiki
+1.17.0
+	
+WikkaWiki
+1.2.sp.1 looks sweet...
+	
+DokuWiki
+maybe not tested enough...
+	
+PmWiki
+2.2.34
+
+iTODO gc: "I can add any tool you want/think would be useful"
+
